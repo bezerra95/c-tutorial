@@ -1,0 +1,8 @@
+# Ignorar pastas da JetBrains (IntelliJ, WebStorm, PyCharm, etc.)
+.idea/
+
+# Arquivos de configuração de IDE
+*.iml
+
+# Logs e caches
+out/
